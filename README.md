@@ -1,4 +1,4 @@
-Slides for JSDC 2013. 
+Stream logs to a web interface.
 
 Real-Time Web Application with Node.js, Socket.io, and Redis.
 
@@ -28,5 +28,3 @@ To edit the code
 coffee -o build -cw src
 ```
 
-Chat log from the DEMO:
-https://gist.github.com/yorktsai/5619195

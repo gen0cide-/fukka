@@ -1,9 +1,13 @@
 {
-  "name": "jsdc2013",
-  "version": "1.0.0",
-  "author": "York Tsai <york.tw@gmail.com>",
+  "name": "logtest",
+  "version": "0.0.1",
+  "author": "Alex Levinson <gen0cide.threats@gmail.com>",
   "description": "Real-time Web Application with Socket.io, Node.js, and Redis",
   "contributors": [ 
+    {
+      "name": "Alex Levinson",
+      "email": "gen0cide.threats@gmail.com"
+    },
     {
       "name": "York Tsai",
       "email": "york.tw@gmail.com"
