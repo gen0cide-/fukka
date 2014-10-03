@@ -19,6 +19,11 @@ src/redis-server
 npm start
 ```
 
+4. To push logs to the service
+```
+$ tail -f /var/log/acess.log | node ./build/fukka.js
+```
+
 Done. Connect to
 
 http://localhost:3939/
